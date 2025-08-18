@@ -1,4 +1,4 @@
-PT ------------------------------------------------
+PT ------------------------------------------
 
 Os dados usados neste relatório são fictícios extraídos do servidor da Microsoft: https://learn.microsoft.com/pt-br/power-bi/create-reports/sample-financial-download#download-it-directly
 
@@ -7,7 +7,7 @@ Para usar a base de dados do meu diretório você deve baixa-la e alterar a font
 
 Com isso o relatório estará operacional novamente e você pode realizar as alterações que quiser. Aproveite!
 
-EN ------------------------------------------------
+EN -------------------------------------------
 
 The data used in this report is dummy data taken from the Microsoft server: https://learn.microsoft.com/pt-br/power-bi/create-reports/sample-financial-download#download-it-directly
 
