@@ -1,5 +1,7 @@
 PT ------------------------------------------
 
+Atenção: esse relatório é apenas uma simples amostra, foi criado com fins educativos. É recomendado para iniciantes ou curiosos que queiram ter uma experiência com algo já criado por alguém. Os dados contidos aqui são fictícios.
+
 Os dados usados neste relatório são fictícios extraídos do servidor da Microsoft: https://learn.microsoft.com/pt-br/power-bi/create-reports/sample-financial-download#download-it-directly
 
 
